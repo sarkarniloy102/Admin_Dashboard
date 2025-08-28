@@ -1,5 +1,6 @@
 import './header.css'
 import Logo from './Logo';
+import Nav from './NavBar/Nav';
 import SearchBar from './SearchBar';
 
 
@@ -12,6 +13,7 @@ const Header = () => {
             {/* search bar */}
             <SearchBar />
             {/* nav */}
+            <Nav />
 
         </header >
     );
