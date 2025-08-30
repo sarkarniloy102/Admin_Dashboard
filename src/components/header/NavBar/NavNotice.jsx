@@ -9,7 +9,7 @@ const NavNotice = () => {
                 <i className='bi bi-bell'></i>
                 <span className='badge bg-primary badge-number'>4</span>
             </a>
-            <ul className="dropdownn-menu dropdown-menu-end dropdown-menu-arrow notifications">
+            <ul className="dropdown-menu dropdown-menu-end dropdown-menu-arrow notifications">
                 <li className='dropdown-header'>
                     You Have 4 new notifications
                     <a href="#"
