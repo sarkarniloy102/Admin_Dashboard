@@ -2,8 +2,8 @@
 
 const NavMessage = () => {
     return (
-        <div>
-            
+        <div clasName="">
+            <h2>Message page</h2>
         </div>
     );
 };
