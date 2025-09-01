@@ -20,7 +20,7 @@ const NavMessage = () => {
                 <li>
                     <hr className='dropdown-divider' />
                 </li>
-                <li className='messages-item'>
+                <li className='message-item'>
                     <a href="#">
                         <img src="/src/assets/messages.png" alt="" className="rounded-circle" />
                     </a>
@@ -33,7 +33,7 @@ const NavMessage = () => {
                 <li>
                     <hr className='dropdown-divider' />
                 </li>
-                <li className='messages-item'>
+                <li className='message-item'>
                     <a href="#">
                         <img src="/src/assets/messages.png" alt="" className="rounded-circle" />
                     </a>
@@ -46,7 +46,7 @@ const NavMessage = () => {
                 <li>
                     <hr className='dropdown-divider' />
                 </li>
-                <li className='messages-item'>
+                <li className='message-item'>
                     <a href="#">
                         <img src="/src/assets/messages.png" alt="" className="rounded-circle" />
                     </a>
@@ -59,17 +59,7 @@ const NavMessage = () => {
                 <li>
                     <hr className='dropdown-divider' />
                 </li>
-                {/* <li className='notifications-item'>
-                    <i className='bi bi-info-circle text-primary'></i>
-                    <div>
-                        <h4>Dicta </h4>
-                        <p> Quae dolorem earum veritatis oditseno  </p>
-                        <p>4 hr. ago</p>
-                    </div>
-                </li>
-                <li>
-                    <hr className='dropdown-divider' />
-                </li> */}
+               
                 <li className='dropdown-footer'>
                     <a href="#">Show all notifications</a>
                 </li>
